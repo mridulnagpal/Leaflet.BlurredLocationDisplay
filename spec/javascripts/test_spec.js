@@ -1,3 +1,5 @@
 describe("Basic testing", function() {
-  expect(True).toBe(True);
+  it("Basic Test", function () {
+  expect(true).toBe(true);
+  });
 });
